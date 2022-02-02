@@ -1,4 +1,4 @@
-## Hi there, I'm Jonathan  👋
+## Hi there, I'm Dario 👋
 
 ### I'm an ecuadorian 🇪🇨 Tech Lover 👨🏻‍💻, Mobile Developer📲 and Frontend Developer 🎨
 
