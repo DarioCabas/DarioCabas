@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Dario Cabascango | LinkedIn" width="22px" src="https://www.linkedin.com/in/dario-cabascango-9724431a3/" />][linkedin]
+[<img align="left" alt="Dario Cabascango | LinkedIn" width="30px" src="https://brandeps.com/icon-download/L/Linkedin-icon-vector-02.svg" />][linkedin]
 <br />
 
 <!--
@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[linkedin]: https://www.linkedin.com/in/dario-cabascango-9724431a3/
