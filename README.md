@@ -26,5 +26,8 @@
 <br />
 <br />
 
+### ⚡ GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarioCabas&theme=ayu-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [linkedin]: https://www.linkedin.com/in/dario-cabascango-9724431a3/
