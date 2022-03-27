@@ -6,7 +6,7 @@
 - 💭 I believe that technology is a tool with the power to improve the society and create opportunities for all
 - 📌 I live in Ecuador a beautiful country that have a lot of landscapes [(Quito-Ecuador)](https://www.google.com/maps/place/Ciudad+Mitad+del+Mundo/@-0.1817487,-77.9992061,8z)!
 - :octocat: I love read about philosophy and all branches that born of it. I play videogames and I keep learning. 
-- 😻 I'm Interested in Insurtech, Virtual assistants, Blockchain, Web3 and UX/UI, Robotics too.
+- 😻 I'm Interested in Insurtech, Virtual assistants, Blockchain, Web3, UX/UI and Robotic.
 
 ### Connect with me:
 
