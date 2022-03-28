@@ -1,6 +1,6 @@
 ## Hi there, I'm Dario 👋
 
-### I'm an ecuadorian 🇪🇨 Tech Lover 👨🏻‍💻, Mobile Developer📲 and Frontend Developer 🎨
+### I'm an ecuadorian 🇪🇨 Tech Lover 👨🏻‍💻, Mobile📲 and Frontend Developer 🎨
 
 - ✈️ What moves me?: Help to the people with my skills and moves to others person make it. 
 - 💭 I believe that technology is a tool with the power to improve the society and create opportunities for all
