@@ -21,7 +21,7 @@
 [<img align="left" alt="React and React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://reactnative.dev/)
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />](https://www.gatsbyjs.com/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://img.presearch.org/75fc54f0917b70f73d257ff3146ff9ca" />](https://github.com/)
+[<img align="left" alt="GitHub" width="26px" src="[https://img.presearch.org/75fc54f0917b70f73d257ff3146ff9ca](https://cdn-icons-png.flaticon.com/512/2111/2111292.png)" />](https://github.com/)
 [<img align="left" alt="NextJs" width="26px" src="https://img.presearch.org/3ab82812cb3d999c2fb92f5dec4a0c07" />](https://nextjs.org/)
 
 <br />
