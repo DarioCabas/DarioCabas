@@ -1,3 +1,7 @@
+<p align="center"><a href="https://ayaumadev.com"><img width="80%" alt="Hello, I'm Dario. I do code for the world!" src="" /></a></p>
+
+<br />
+
 ## Hi everyone, I'm Dario 👋
 
 ### I'm an ecuadorian 🇪🇨 Tech Lover and Software Developer 👨🏻‍💻, focus in Mobile📲 and Frontend Developer 🎨
