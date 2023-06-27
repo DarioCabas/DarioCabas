@@ -15,9 +15,9 @@
 - :octocat: I love read about philosophy and all branches that born of it. I play videogames and I keep learning. 
 - 😻 I'm Interested in the Tech world like: Virtual assistants, Blockchain, Web3, UX/UI, Robotic and others.
 
-<br />
 ---
-### Languages and Tools:
+
+### 🛠 &nbsp;Languages and Tools :
 
 [<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />](https://www.typescriptlang.org/)
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
@@ -28,9 +28,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />](https://github.com/)
 [<img align="left" alt="NextJs" width="26px" src="https://img.presearch.org/3ab82812cb3d999c2fb92f5dec4a0c07" />](https://nextjs.org/)
 
-<br />
+
 ---
-<br />
 
 ### ⚡ GitHub Stats
 
