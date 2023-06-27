@@ -1,6 +1,6 @@
 <p align="center"><a href="https://ayaumadev.com"><img width="40%" alt="Hello, I'm Dario. I do code for the world!" src="./assets/header.png" /></a></p>
 <p align="center">
-<a href='https://www.linkedin.com/in/dario-cabascango-9724431a3/' target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/dario-cabascango-9724431a3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <br />
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -15,9 +15,6 @@
 - :octocat: I love read about philosophy and all branches that born of it. I play videogames and I keep learning. 
 - 😻 I'm Interested in the Tech world like: Virtual assistants, Blockchain, Web3, UX/UI, Robotic and others.
 
-### Connect with me:
-
-[<img align="left" alt="Dario Cabascango | LinkedIn" width="30px" src="https://brandeps.com/icon-download/L/Linkedin-icon-vector-02.svg" />][linkedin]
 <br />
 
 ### Languages and Tools:
