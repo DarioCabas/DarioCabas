@@ -18,7 +18,7 @@
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
-
+<p>
 [<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />](https://www.typescriptlang.org/)
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://es.wikipedia.org/wiki/JavaScript)
@@ -28,10 +28,11 @@
 [<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />](https://github.com/)
 [<img align="left" alt="NextJs" width="26px" src="https://img.presearch.org/3ab82812cb3d999c2fb92f5dec4a0c07" />](https://nextjs.org/)
 
+</p>
 
 ---
 
-### ⚡ GitHub Stats
+### 🔥 &nbsp; My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarioCabas&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
