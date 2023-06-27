@@ -19,17 +19,16 @@
 
 ### 🛠 &nbsp;Languages and Tools :
 <p>
-<a href="https://www.typescriptlang.org"><img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></a>
-<a href="https://www.python.org"><img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
-<a href="https://es.wikipedia.org/wiki/JavaScript"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
-<a href="https://reactnative.dev"><img align="left" alt="React and React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
-<a href="https://www.gatsbyjs.com/"><img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" /></a>
-<a href="https://code.visualstudio.com"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
-<a href="https://github.com"><img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /></a>
-<a href="https://nextjs.org"><img align="left" alt="NextJs" width="26px" src="https://img.presearch.org/3ab82812cb3d999c2fb92f5dec4a0c07" /></a>
+<a href="https://www.typescriptlang.org"><img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></a>&nbsp;
+<a href="https://www.python.org"><img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>&nbsp;
+<a href="https://es.wikipedia.org/wiki/JavaScript"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>&nbsp;
+<a href="https://reactnative.dev"><img align="left" alt="React and React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>&nbsp;
+<a href="https://www.gatsbyjs.com/"><img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" /></a>&nbsp;
+<a href="https://code.visualstudio.com"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>&nbsp;
+<a href="https://github.com"><img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /></a>&nbsp;
+<a href="https://nextjs.org"><img align="left" alt="NextJs" width="26px" src="https://img.presearch.org/3ab82812cb3d999c2fb92f5dec4a0c07" /></a>&nbsp;
 </p>
 
-<p> </p>
 
 ---
 
