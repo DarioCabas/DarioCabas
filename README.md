@@ -27,7 +27,7 @@
 <a href="https://code.visualstudio.com"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>&nbsp;
 <a href="https://github.com"><img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /></a>&nbsp;
 <a href="https://nextjs.org"><img align="left" alt="NextJs" width="26px" src="https://img.presearch.org/3ab82812cb3d999c2fb92f5dec4a0c07" /></a>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></a>&nbsp;
 </p>
 
 
