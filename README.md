@@ -1,16 +1,19 @@
 <p align="center"><a href="https://ayaumadev.com"><img width="40%" alt="Hello, I'm Dario. I do code for the world!" src="./assets/header.png" /></a></p>
-
+<p align="center">
+<a href=[linkedin]><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
 <br />
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-## Hi everyone, I'm Dario 👋
+### :man_technologist: &nbsp;About Me : 
 
-### I'm an ecuadorian 🇪🇨 Tech Lover and Software Developer 👨🏻‍💻, focus in Mobile📲 and Frontend Developer 🎨
+#### I'm an ecuadorian 🇪🇨 Tech Lover and Software Developer 👨🏻‍💻, focus in Mobile📲 and Frontend Development 🎨
 
-- ✈️ What moves me?: Help to the people with my skills and moves to others person make it. 
+- ✈️ I move in the world with the subject of help people with my skills and moves to others person make it. 
 - 💭 I believe that technology is a tool with the power to improve the society and create opportunities for all
 - 📌 I live in Ecuador a beautiful country that have a lot of landscapes [(Quito-Ecuador)](https://www.google.com/maps/place/Ciudad+Mitad+del+Mundo/@-0.1817487,-77.9992061,8z)!
 - :octocat: I love read about philosophy and all branches that born of it. I play videogames and I keep learning. 
-- 😻 I'm Interested in Insurtech, Virtual assistants, Blockchain, Web3, UX/UI and Robotic.
+- 😻 I'm Interested in the Tech world like: Virtual assistants, Blockchain, Web3, UX/UI, Robotic and others.
 
 ### Connect with me:
 
