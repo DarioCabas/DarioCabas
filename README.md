@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ayaumadev.com"><img width="80%" alt="Hello, I'm Dario. I do code for the world!" src="" /></a></p>
+<p align="center"><a href="https://ayaumadev.com"><img width="80%" alt="Hello, I'm Dario. I do code for the world!" src="./assets/header.png" /></a></p>
 
 <br />
 
