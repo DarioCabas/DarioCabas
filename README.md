@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ayaumadev.com"><img width="40%" alt="Hello, I'm Dario. I do code for the world!" src="./assets/header.png" /></a></p>
+<p align="center"><a href="https://ayaumadev.com"><img width="20%" alt="Hello, I'm Dario. I do code for the world!" src="./assets/header.png" /></a></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/dario-cabascango-9724431a3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
